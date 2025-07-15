@@ -1,4 +1,4 @@
-# Perf - Releases
+# Kurama - Releases
 Thanks to **[@kibria5](https://github.com/kibria5/kernel_xiaomi_violet)** for Perf :)
 
 **For violet | Redmi Note 7 Pro**
