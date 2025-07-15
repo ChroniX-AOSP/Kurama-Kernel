@@ -4,7 +4,7 @@
 # ------------------------------------------------------------
 
 # Kernel
-KERNEL_NAME="Perf"
+KERNEL_NAME="Kurama"
 KERNEL_GIT="https://github.com/selfmusing/kernel_xiaomi_violet.git"
 KERNEL_BRANCH="14"
 
