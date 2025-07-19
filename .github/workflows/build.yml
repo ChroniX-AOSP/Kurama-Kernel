@@ -14,7 +14,7 @@ on:
       Kernel_Git:
         required: true
         type: string
-        default: https://github.com/selfmusing/kernel_xiaomi_violet.git
+        default: https://github.com/ChroniX-AOSP/kernel_xiaomi_violet.git
       Kernel_Branch:
         required: true
         type: string
